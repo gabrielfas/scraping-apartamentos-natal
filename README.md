@@ -1,6 +1,6 @@
 # Scraping apartamentos Natal
 
-Web scraper desenvolvido com o intuito de recuperar anúncios de apartamentos na cidade de Natal, sejam anúncios de venda ou aluguel. Após coletados os dados serão exportados para um arquivo CSV.
+Web scraper desenvolvido com o intuito de recuperar anúncios de vendas de apartamentos na cidade de Natal/RN. Após coletados os dados serão exportados para um arquivo CSV.
 
 ## Como executar
 
