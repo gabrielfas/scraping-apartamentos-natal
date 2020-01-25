@@ -70,7 +70,7 @@ def exportar_dataset(dataset):
   print('Exportando dataset para CSV...')
   colunas = ['Titulo', 'Número de quartos', 'Tamanho (m2)', 
              'Valor do condominio (R$)', 'Número de vagas', 'Bairro', 'Valor (R$)', 
-             'Tipo do anuncio','Dia da publicacao', 'Hora da publicacao', 'url']
+             'Tipo do anuncio','Dia da publicacao', 'Hora da publicacao', 'URL']
   
   df = pd.DataFrame(apts, columns=colunas)
 
